@@ -1,0 +1,552 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\projects\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\teammember\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.Tasks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.Projects.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.TeamMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\models\\teammember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230112419_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_Management_System\\Migrations\\20241230112419_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\teammember\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\teammember\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\tasks\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\tasks\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\projects\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\projects\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\models\\projects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\models\\tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\controllers\\teammembercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102600_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_Management_System\\Migrations\\20241230102600_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102344_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_Management_System\\Migrations\\20241230102344_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102000_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task_Management_System\\Migrations\\20241230102000_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\projects\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\teammember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\teammember\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\teammember\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\teammember\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\projects\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\views\\projects\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\viewmodels\\taskviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|c:\\users\\omar.youssef\\source\\repos\\task_management_system\\task_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA68041E-A3F4-455B-BEE7-9F9A55D02C98}|Task_Management_System\\Task_Management_System.csproj|solutionrelative:task_management_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Tasks [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.Tasks.sql",
+              "ToolTip": "dbo.Tasks [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:29:58.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dbo.TeamMembers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.TeamMembers.sql",
+              "ToolTip": "dbo.TeamMembers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:29:30.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Projects [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Task_System/True/SqlTable/dbo.Projects.sql",
+              "ToolTip": "dbo.Projects [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-12-30T11:29:04.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Projects\\Details.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Details.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Projects\\Details.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:44:45.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Details.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\TeamMember\\Details.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Details.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\TeamMember\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:58:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TeamMember.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\TeamMember.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Models\\TeamMember.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\TeamMember.cs",
+              "RelativeToolTip": "Task_Management_System\\Models\\TeamMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:50:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20241230112419_second.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230112419_second.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Migrations\\20241230112419_second.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230112419_second.cs",
+              "RelativeToolTip": "Task_Management_System\\Migrations\\20241230112419_second.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T11:24:19.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Task_Management_System\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:22:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Tasks\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Tasks\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Tasks\\GetAll.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Tasks\\GetAll.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:04:57.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tasks.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\Tasks.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Models\\Tasks.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\Tasks.cs",
+              "RelativeToolTip": "Task_Management_System\\Models\\Tasks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:48:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Projects\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\GetAll.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Projects\\GetAll.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T07:43:41.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:46:58.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\TeamMember\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\GetAll.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\TeamMember\\GetAll.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:51:27.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Task_Management_System\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:55:28.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Task_Management_System\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:37:58.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Task_Management_System\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:31:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TeamMemberController.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\TeamMemberController.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Controllers\\TeamMemberController.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\TeamMemberController.cs",
+              "RelativeToolTip": "Task_Management_System\\Controllers\\TeamMemberController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:15:34.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Projects.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\Projects.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Models\\Projects.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Models\\Projects.cs",
+              "RelativeToolTip": "Task_Management_System\\Models\\Projects.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:49:47.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Task_Management_System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T08:43:39.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241230102600_first.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102600_first.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Migrations\\20241230102600_first.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102600_first.cs",
+              "RelativeToolTip": "Task_Management_System\\Migrations\\20241230102600_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:26:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241230102344_first.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102344_first.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Migrations\\20241230102344_first.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102344_first.cs",
+              "RelativeToolTip": "Task_Management_System\\Migrations\\20241230102344_first.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:23:45.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241230102000_init.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102000_init.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Migrations\\20241230102000_init.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Migrations\\20241230102000_init.cs",
+              "RelativeToolTip": "Task_Management_System\\Migrations\\20241230102000_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T10:20:00.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Tasks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Tasks\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Tasks\\Edit.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Tasks\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:09:40.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Projects\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Delete.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Projects\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:50:34.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Projects\\Create.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Create.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Projects\\Create.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:49:04.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Create.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\TeamMember\\Create.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Create.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\TeamMember\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:02:35.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\TeamMember\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Edit.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\TeamMember\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:01:52.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\TeamMember\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\TeamMember\\Delete.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\TeamMember\\Delete.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T09:03:40.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Task_Management_System\\Views\\Projects\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Views\\Projects\\Edit.cshtml",
+              "RelativeToolTip": "Task_Management_System\\Views\\Projects\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-30T08:49:41.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TaskViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\ViewModels\\TaskViewModel.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\ViewModels\\TaskViewModel.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\ViewModels\\TaskViewModel.cs",
+              "RelativeToolTip": "Task_Management_System\\ViewModels\\TaskViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:39:48.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\appsettings.json",
+              "RelativeDocumentMoniker": "Task_Management_System\\appsettings.json",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\appsettings.json",
+              "RelativeToolTip": "Task_Management_System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T06:25:13.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Management_System\\Program.cs",
+              "ToolTip": "C:\\Users\\omar.youssef\\source\\repos\\Task_Management_System\\Task_Management_System\\Program.cs",
+              "RelativeToolTip": "Task_Management_System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:21:51.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

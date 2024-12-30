@@ -1,0 +1,63 @@
+﻿@model Task_Management_System.Models.TeamMember
+
+@{
+	ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+	<h4>Team Member</h4>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Name)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Name)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Email)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Email)
+		</dd>
+		<dt class="col-sm-2">
+			@Html.DisplayNameFor(model => model.Role)
+		</dt>
+		<dd class="col-sm-10">
+			@Html.DisplayFor(model => model.Role)
+		</dd>
+	</dl>
+</div>
+
+<h4>Tasks</h4>
+<table class="table">
+	<thead>
+		<tr>
+			<th>@Html.DisplayNameFor(model => model.tasks.FirstOrDefault().Title)</th>
+			<th>@Html.DisplayNameFor(model => model.tasks.FirstOrDefault().Description)</th>
+			<th>@Html.DisplayNameFor(model => model.tasks.FirstOrDefault().Status)</th>
+			<th>@Html.DisplayNameFor(model => model.tasks.FirstOrDefault().Priority)</th>
+			<th>@Html.DisplayNameFor(model => model.tasks.FirstOrDefault().DeadLine)</th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var task in Model.tasks)
+		{
+			<tr>
+				<td>@Html.DisplayFor(modelItem => task.Title)</td>
+				<td>@Html.DisplayFor(modelItem => task.Description)</td>
+				<td>@Html.DisplayFor(modelItem => task.Status)</td>
+				<td>@Html.DisplayFor(modelItem => task.Priority)</td>
+				<td>@Html.DisplayFor(modelItem => task.DeadLine)</td>
+				<td>
+					<a asp-controller="Tasks" asp-action="Edit" asp-route-id="@task.Id">Edit</a> |
+					<a asp-controller="Tasks" asp-action="Details" asp-route-id="@task.Id">Details</a> |
+					<a asp-controller="Tasks" asp-action="Delete" asp-route-id="@task.Id">Delete</a>
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
